@@ -1,0 +1,1 @@
+The intent of this game is to create a simple 3D walk around where you collect randomly generated coins
