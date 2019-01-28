@@ -1,0 +1,6 @@
+- [ ] Import Stl for character
+- [ ] Create a movable Camera (mouse + wasd)
+- [ ] create a ground level
+- [ ] Coin generation
+- [ ] Character coin intersection
+- [ ] HUD status
